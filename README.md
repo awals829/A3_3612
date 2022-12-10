@@ -11,42 +11,42 @@ Install via the command: npm install express
 
 ###### TEST RUNS ######
 
-localhost:8080/api/paintings
+https://localhost:8080/api/paintings
 
-localhost:8080/api/painting/433
+https://localhost:8080/api/painting/433
 
-localhost:8080/api/painting/43374534856
+https://localhost:8080/api/painting/43374534856
 
-localhost:8080/api/painting/gallery/7
+https://localhost:8080/api/painting/gallery/7
 
-localhost:8080/api/painting/gallery/43374534856
+https://localhost:8080/api/painting/gallery/43374534856
 
-localhost:8080/api/painting/artist/106
+https://localhost:8080/api/painting/artist/106
 
-localhost:8080/api/painting/artist/43374534856
+https://localhost:8080/api/painting/artist/43374534856
 
-localhost:8080/api/painting/year/1850/1900
+https://localhost:8080/api/painting/year/1850/1900
 
-localhost:8080/api/painting/year/2200/2400
+https://localhost:8080/api/painting/year/2200/2400
 
-localhost:8080/api/painting/title/self
+https://localhost:8080/api/painting/title/self
 
-localhost:8080/api/painting/title/dfjkghdfkgh
+https://localhost:8080/api/painting/title/dfjkghdfkgh
 
-localhost:8080/api/painting/color/NAPA
+https://localhost:8080/api/painting/color/NAPA
 
-localhost:8080/api/painting/color/coffee%20bean
+https://localhost:8080/api/painting/color/coffee%20bean
 
-localhost:8080/api/painting/color/kcvhvxchbkcj
+https://localhost:8080/api/painting/color/kcvhvxchbkcj
 
-localhost:8080/api/artists
+https://localhost:8080/api/artists
 
-localhost:8080/api/artists/Netherlands
+https://localhost:8080/api/artists/Netherlands
 
-localhost:8080/api/artists/sdfjjsdf
+https://localhost:8080/api/artists/sdfjjsdf
 
-localhost:8080/api/galleries
+https://localhost:8080/api/galleries
 
-localhost:8080/api/galleries/france
+https://localhost:8080/api/galleries/france
 
-localhost:8080/api/galleries/kcvhvxchbkcj
+https://localhost:8080/api/galleries/kcvhvxchbkcj
