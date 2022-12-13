@@ -3,12 +3,6 @@
 
 **Please view `COMP3612 Assignment 3.pdf` for instructions**
 
-###### INSTRUCTIONS ######
-
-Will require the node express module to run.
-
-Install via the command: npm install express
-
 ###### TEST RUNS ######
 
 https://steel-calm-burrito.glitch.me/api/paintings
