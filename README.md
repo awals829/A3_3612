@@ -1,4 +1,4 @@
-Testing with a custom JS API with some local Json data
+Testing a custom JS API with some local Json data
 
 ###### TEST RUNS ######
 
