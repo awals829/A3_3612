@@ -1,3 +1,5 @@
+Testing with a custom JS API with some local Json data
+
 ###### TEST RUNS ######
 
 https://steel-calm-burrito.glitch.me/api/paintings
